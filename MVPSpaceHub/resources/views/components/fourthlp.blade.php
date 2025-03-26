@@ -8,7 +8,7 @@
 
 </div>
 <div class=" w-full h-[850px] flex justify-center mt-6">
-    <div class="flex justify-center items-center bg-linear-to-b from-[#d2cbfc] to-gray-100 w-[1400px] h-[800px] rounded-2xl">
+    <div class="flex relative justify-center items-center bg-linear-to-b from-[#d2cbfc] to-gray-100 w-[1400px] h-[800px] rounded-2xl">
 
         <div class="grid grid-cols-3 gap-x-10 gap-y-[80px]">
             <div class="w-[370px] h-[300px] bg-white rounded-xl shadow-2xl">
@@ -139,7 +139,7 @@
 
 
         </div>
-        <div class="p-3 px-4 mx-[60px] text-white rounded-lg bg-[#2F327D] bottom-0 right-0 absolute">
+        <div class="p-3 px-4 mt-10 mx-[60px] text-white rounded-lg bg-[#2F327D] bottom-0 right-0 absolute">
             Lebih Banyak
         </div>
 

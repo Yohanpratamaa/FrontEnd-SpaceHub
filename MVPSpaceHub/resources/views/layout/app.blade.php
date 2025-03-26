@@ -38,6 +38,11 @@
             <x-fourthlp></x-fourthlp>
         </div>
 
+        {{-- Fifth Page Landing Page --}}
+        <div class="relative">
+            <x-fifthlp></x-fifthlp>
+        </div>
+
 
 
 
