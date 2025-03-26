@@ -12,12 +12,12 @@
 <body class="bg-gray-100">
     <section class="px-[100px] pt-6 max-w-full max-h-screen">
 
-        <div class="blur-[500px] absolute rounded-full -left-[1000px] -top-[200px] w-full h-full bg-[#cec8f7]"></div>
+        <div class="blur-[500px] absolute rounded-r-full left-0 -top-[100px] w-[200px] h-full bg-[#4b32eb]"></div>
 
         @include('layout.navigation')
 
         {{-- First Page Landing Page --}}
-        <div class="relative w-full h-[600px] px-[60px]">
+        <div class="relative w-full h-[700px] px-[60px]">
             <x-firstlp></x-firstlp>
         </div>
 
@@ -31,9 +31,12 @@
             <x-thirdlp></x-thirdlp>
         </div>
 
+        <div class="blur-[600px] absolute rounded-l-full right-0 top-[1800px] w-[200px] h-full bg-[#4b32eb]"></div>
 
-
-
+        {{-- Fourth Page Landing Page --}}
+        <div class="relative">
+            <x-fourthlp></x-fourthlp>
+        </div>
 
 
 
