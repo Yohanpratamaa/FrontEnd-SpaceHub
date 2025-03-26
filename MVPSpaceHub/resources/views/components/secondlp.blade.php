@@ -14,7 +14,7 @@
 
 
 <div class="w-full h-[300px] flex justify-center">
-    <div class="text-center trackking-wide">
+    <div class="text-center">
         <h1 class="text-[36px] font-bold purple tracking-wide">Fleksibilitas dan <span class="orange">Kemudahan</span></h1>
         <p class="text-[24px] w-[750px] purple2 tracking-wide">SpaceHub membantu kamu untuk menemukan ruang diskusi yang nyaman dan sesuai kebutuhanmu.</p>
     </div>
