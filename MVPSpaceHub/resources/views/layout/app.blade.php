@@ -14,6 +14,7 @@
 
         <div class="blur-[500px] absolute rounded-r-full left-0 -top-[100px] w-[200px] h-full bg-[#4b32eb]"></div>
 
+        {{-- Navbar --}}
         @include('layout.navigation')
 
         {{-- First Page Landing Page --}}
@@ -43,7 +44,7 @@
             <x-fifthlp></x-fifthlp>
         </div>
 
-
+        {{-- Footer --}}
 
 
 
