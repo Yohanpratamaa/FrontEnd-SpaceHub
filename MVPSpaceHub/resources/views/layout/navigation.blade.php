@@ -16,7 +16,7 @@
             <x-logo></x-logo>
         </div>
 
-        <x-nav-item></x-nav-item>
+        <x-nav_item></x-nav_item>
 
         <div class="absolute right-0">
             <x-buttonDaftar></x-buttonDaftar>
