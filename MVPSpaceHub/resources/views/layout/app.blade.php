@@ -11,7 +11,7 @@
 </head>
 <body class="bg-gray-100">
 
-    <section class="px-[100px] pt-6 max-w-full max-h-screen">
+    <section class="px-[100px] pt-6 w-full max-h-screen">
 
         <div class="blur-[500px] absolute rounded-r-full left-0 -top-[100px] w-[200px] h-full bg-[#4b32eb]"></div>
 
@@ -44,6 +44,8 @@
         <div class="relative">
             <x-fifthlp></x-fifthlp>
         </div>
+
+        <hr class="w-full h-[1px] bg-gray-300">
 
         {{-- Footer --}}
         <div class="relative">
