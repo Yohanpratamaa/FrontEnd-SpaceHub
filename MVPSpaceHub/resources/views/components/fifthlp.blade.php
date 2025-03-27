@@ -1,7 +1,7 @@
 <div class="w-full h-[550px] flex justify-center mt-[150px]">
     <div class="mr-[100px]">
         <div class="w-[700px] h-[370px] -z-10 flex justify-center items-center absolute">
-            <div class="bg-red-200 w-[300px] rounded-full h-[300px] blur-[100px]"></div>
+            <div class="bg-red-200 w-[400px] rounded-full h-[400px] blur-[300px]"></div>
         </div>
         <img src="{{asset("images/Collapse.png")}}" alt="" class="w-[700px]">
     </div>
