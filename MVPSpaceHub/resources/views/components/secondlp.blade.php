@@ -12,13 +12,13 @@
     }
 </style>
 
-
 <div class="w-full h-[300px] flex justify-center">
     <div class="text-center">
         <h1 class="text-[36px] font-bold purple tracking-wide">Fleksibilitas dan <span class="orange">Kemudahan</span></h1>
         <p class="text-[24px] w-[750px] purple2 tracking-wide">SpaceHub membantu kamu untuk menemukan ruang diskusi yang nyaman dan sesuai kebutuhanmu.</p>
     </div>
 </div>
+
 <div class="w-full h-[500px] flex justify-center grid-cols-3 gap-x-10">
     <div class="relative flex justify-center items-center text-center w-[346px] h-[288px] bg-white shadow-xl rounded-2xl">
         <img src="{{asset('images/document.png')}}" alt="" class="w-[150px] absolute -top-[80px]">

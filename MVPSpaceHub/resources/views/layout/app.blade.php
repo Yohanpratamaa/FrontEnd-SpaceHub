@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
 </head>
 <body class="bg-gray-100">
+
     <section class="px-[100px] pt-6 max-w-full max-h-screen">
 
         <div class="blur-[500px] absolute rounded-r-full left-0 -top-[100px] w-[200px] h-full bg-[#4b32eb]"></div>
@@ -45,12 +46,11 @@
         </div>
 
         {{-- Footer --}}
-
-
-
-
-
+        <div class="relative">
+            <x-footer></x-footer>
+        </div>
 
     </section>
+
 </body>
 </html>
